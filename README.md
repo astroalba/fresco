@@ -1,1 +1,1 @@
-# fresco
+# FRESCO H-alpha catalog
