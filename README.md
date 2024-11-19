@@ -5,5 +5,5 @@ This is the FRESCO H-alpha emitter catalogue. If this is useful to your research
 It can be read with astropy using:
 ```python
 from astropy.io import ascii
-ascii.read('FRESCO_HA_emitters_release_v2.txt', header_start=-1)
+ascii.read('FRESCO_HA_emitters_release_v2.txt')
 
